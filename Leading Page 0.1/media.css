@@ -1,0 +1,16 @@
+/* Estilos para tablets (por exemplo, iPads) */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    /* Adicione mais estilos específicos para tablets aqui */
+}
+/* Estilos para dispositivos móveis (por exemplo, smartphones) */
+@media (max-width: 480px) {
+    body {
+        font-size: 12px;
+    }
+
+    /* Adicione mais estilos específicos para dispositivos móveis aqui */
+}
